@@ -1,0 +1,19 @@
+<resources>
+    <string name="action_sort_by_birthday">Birthday</string>
+    <string name="action_sort_by_name">Name</string>
+    <string name="app_name">Health App</string>
+    <string name="patient_create_birthday">Please select the birth date and tap Create</string>
+    <string name="patient_create_button">Create Patient</string>
+    <string name="patient_detail_birthday_hint">Birthday</string>
+    <string name="patient_detail_birthday_text">Wed Dec 25 00:00:00 EST 1960</string>
+    <string name="patient_detail_fname_hint">Family Name</string>
+    <string name="patient_detail_fname_text">Unknown</string>
+    <string name="patient_detail_gname_hint">Given Name</string>
+    <string name="patient_detail_gname_text">Unknown</string>
+    <string name="patient_detail_gender_hint">Gender (Male | Female | Other | Unknown)</string>
+    <string name="patient_detail_gender_text">Unknown</string>
+    <string name="patient_detail_title">Patient Detail</string>
+    <string name="patient_name_default">Unknown Patient</string>
+    <string name="patient_photo_description">Describe the patient photo</string>
+    <string name="snackbar_action">Action</string>
+</resources>
